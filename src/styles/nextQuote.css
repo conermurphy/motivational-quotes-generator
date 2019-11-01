@@ -1,0 +1,9 @@
+.container  {
+    margin: 5rem;
+    font-size: 3rem;
+    font-weight: 200;
+}
+
+.container > p {
+    margin: 0;
+}
